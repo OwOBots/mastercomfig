@@ -11,38 +11,45 @@
 
 # mastercomfig
 
-Welcome to [mastercomfig](https://mastercomfig.com/), a modern customization framework.
+Welcome to [mastercomfig](https://mastercomfig.com/)-CS, a modern CS:S performance and customization config, forked from https://github.com/mastercomfig/mastercomfig.
 
-mastercomfig is a modern customization framework, and aims to disable heavily unoptimized features and adjust other settings where it does not affect behavior or visuals noticeably. mastercomfig is documented extensively and also has advanced customization features so that you may adjust settings to your needs/preferences.
+This config is by default for modern PCs and aims to disable heavily unoptimized
+features and adjust other settings where it does not affect behavior or visuals
+noticeably. However, the config is documented extensively and also has presets
+so that you may adjust settings to your needs/preferences.
 
-You may find that mastercomfig makes TF2 a lot smoother, eliminates stuttering, reduces load times and increases FPS. This is because mastercomfig is heavily tuned and the commands and values are based on TF2's source code, rather than solely experiments, guesswork and trying to understand the vague/non-existent documentation.
+This is a fork of the TF2 comfig with variables updated for CS:S values.
 
-mastercomfig is constantly updated with tweaks, new features and documentation improvements — iterated upon based on user feedback and benchmarks. So if you think there's an unoptimal value, or if it's as simple as a comment being confusing to you, report the problem and you'll most likely see a fix in a future update.
+The config is constantly updated with tweaks, new features and documentation
+improvements — iterated upon based on user feedback and benchmarks. So if you
+think there's an unoptimal value, or if it's just as simple as a comment being
+confusing to you, report the problem and you'll most likely see a fix in a
+future update.
 
 ## Docs
 
 For more information, including installation steps, check out [the docs](https://docs.mastercomfig.com/page/).
 
-## Support me
+## Support her
 
 You can support mastercoms using [Liberapay](https://liberapay.com/mastercoms/) or [Ko-fi](https://ko-fi.com/mastercoms) with money, or you can gift items through [trade offers](https://steamcommunity.com/tradeoffer/new/?partner=85845165&token=M9cQHh8N).
 
-You have my endless gratitude if you support me with money or gift items, and this support encourages me so much!
+You have her endless gratitude if you support her with money or gift items, and this support encourages her so much!
 
-If you are not able to support me through the above methods, that's fine too! Your thank yous are always cherished and mean so much to me!
+If you are not able to support her through the above methods, that's fine too! Your thank yous are always cherished and mean so much to her.
 
 ## Credits
 
 * [Chris](https://chrisdown.name/tf2/) for starting it all
 
 * [Comanglia](https://www.teamfortress.tv/25328/comanglias-config-fps-guide) for
-  continuing what Chris started and providing me with assistance
+  continuing what Chris started and helping a bit with her config
 
 * [Rhapsody](https://rhapsodysl.github.io/perfconfig/) for updating Chris' config
 
 * [JarateKing](https://github.com/JarateKing) for all their amazing work on TF2 modding and configuration
 
-* povohat for [making the null-canceling movement script](https://web.archive.org/web/20191124005113/http://ozfortress.com/showpost.php?p=624355)
+* povohat for making the null-cancelling movement script
 
 * SteamDB for their excellent tools, including [Game Tracking for TF2](https://github.com/SteamDatabase/GameTracking-TF2)
 
@@ -50,21 +57,27 @@ If you are not able to support me through the above methods, that's fine too! Yo
 
 * step for [sm_cvarlist](https://forums.alliedmods.net/showthread.php?p=1298262)
 
-* AveYo for [GetLaunchOptions.bat](https://pastebin.com/bhQrywES)
+* AveYo for [GetLaunchOptions.bat](https://github.com/AveYo/D-OPTIMIZER/blob/archive/GetLaunchOptions.bat)
+
+* Tiagoquix for continued support and bug fixes to the config
 
 * jane for the shrinkKeyValues bash script
 
-* Fraklin for screenshots
+* Fraklin for screenshots of the config
 
 * The [Valve Developer Community](https://developer.valvesoftware.com/wiki/Main_Page)
   for their documentation of Source Engine console variables and mechanics
 
 * and to Valve, for making and updating (for over a decade!) the best class-based FPS to date with so
   much customization on top
+  
+* Mastercoms
 
 ## Legal
 
 Valve, the Valve logo, Steam, the Steam logo, Team Fortress, the Team Fortress
 logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.
+
+Counter Strike: Source is owned by Valve
 
 mastercomfig is not sponsored, endorsed, licensed by, or affiliated with Valve Corporation.
